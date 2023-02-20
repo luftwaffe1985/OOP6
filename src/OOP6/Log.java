@@ -14,7 +14,7 @@ class Log {
 
     public void record(String msg) {
         Date date = new Date();
-        Path path = Paths.get("C:/Users/m0uZ/Desktop/Java/oopSeminar5/V2/log.txt");
+        Path path = Paths.get("C:\\Users\\Asus\\IdeaProjects\\OOP6\\src\\OOP6\\log.txt");
         try (FileWriter writer = new FileWriter(path.toString(), true)) {
 
             writer.write(msg);
