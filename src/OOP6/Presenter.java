@@ -30,7 +30,7 @@ public class Presenter {
             System.out.println(new DivModel().result(x, y));
             log.record(new DivModel().result(x, y));
         } else {
-            System.out.println("Выбран не верный вид операции!");
+            System.out.println("Выбран неверный тип операции!");
         }
     }
 }

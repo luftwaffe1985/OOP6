@@ -11,7 +11,7 @@ public class View {
     }
 
     public int getChoice() {
-        System.out.println("Выберети вид операции:");
+        System.out.println("Выберети тип операции:");
         System.out.println("1. Сложение");
         System.out.println("2. Вычитание");
         System.out.println("3. Умножение");
