@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88ad0e7e-114c-4b57-bb89-fbce93165d0c" name="Changes" comment="New commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP6/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP6/Log.java" afterDir="false" />
+    <list default="true" id="88ad0e7e-114c-4b57-bb89-fbce93165d0c" name="Changes" comment="New commit3">
+      <change beforePath="$PROJECT_DIR$/src/OOP6/Model/iModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP6/Model/iModel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,28 @@
       <option name="project" value="LOCAL" />
       <updated>1676915223133</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New commit1">
+      <created>1676915388197</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676915388197</updated>
+    </task>
+    <task id="LOCAL-00003" summary="New commit2">
+      <created>1676915448770</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676915448770</updated>
+    </task>
+    <task id="LOCAL-00004" summary="New commit3">
+      <created>1676915566437</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676915566437</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +108,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="New commit" />
+    <MESSAGE value="New commit1" />
+    <MESSAGE value="New commit2" />
+    <MESSAGE value="New commit3" />
+    <option name="LAST_COMMIT_MESSAGE" value="New commit3" />
   </component>
 </project>
